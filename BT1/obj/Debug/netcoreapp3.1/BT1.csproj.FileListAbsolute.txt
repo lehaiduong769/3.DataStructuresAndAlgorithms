@@ -1,0 +1,14 @@
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\bin\Debug\netcoreapp3.1\BT1.exe
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\bin\Debug\netcoreapp3.1\BT1.deps.json
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\bin\Debug\netcoreapp3.1\BT1.runtimeconfig.json
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\bin\Debug\netcoreapp3.1\BT1.runtimeconfig.dev.json
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\bin\Debug\netcoreapp3.1\BT1.dll
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\bin\Debug\netcoreapp3.1\BT1.pdb
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.csproj.AssemblyReference.cache
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.AssemblyInfoInputs.cache
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.AssemblyInfo.cs
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.csproj.CoreCompileInputs.cache
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.dll
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.pdb
+D:\VTC_Documents\3.DataStructuresAndAlgorithms\GiaiBTLabs\Lab3_Tree\BT1\obj\Debug\netcoreapp3.1\BT1.genruntimeconfig.cache
